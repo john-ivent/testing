@@ -9401,6 +9401,11 @@ aside.widget {
 .gallery-caption {
   display: block; }
 
+nav a {
+  color: #67A6A6 !important; }
+  nav a:hover {
+    color: #7852B2 !important; }
+
 /*
 * Use existing Bootstrap 4 classes and
 * variables to extend - override CF7 style
